@@ -1,0 +1,44 @@
+{
+    "BigQuery Schema":[
+        {
+            "name":"DATA_VENDA",
+            "type":"DATE"
+        },
+        {
+            "name":"CLIENTE_ID",
+            "type":"INTEGER"
+        },
+        {
+            "name":"NOME_CLIENTE",
+            "type":"STRING"
+        },
+        {
+            "name":"EMAIL_CLIENTE",
+            "type":"STRING"
+        },
+        {
+            "name":"TELEFONE_CLIENTE",
+            "type":"STRING"
+        },
+        {
+            "name":"ENDERECO_CLIENTE",
+            "type":"STRING"
+        },
+        {
+            "name":"PRODUTO",
+            "type":"STRING"
+        },
+        {
+            "name":"QUANTIDADE",
+            "type":"INTEGER"
+        },
+        {
+            "name":"PRECO_UNITARIO",
+            "type":"FLOAT"
+        },
+        {
+            "name":"PRECO_TOTAL",
+            "type":"FLOAT"
+        }
+    ]
+}
