@@ -61,5 +61,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
-
-Se precisar de mais alguma coisa ou alguma modificação, é só avisar!
